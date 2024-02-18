@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@devexpress/dx-chart-core": "^3.0.6",
+    "@devexpress/dx-react-chart": "^3.0.6",
+    "@devexpress/dx-react-chart-material-ui": "^3.0.6",
+    "@devexpress/dx-react-core": "^3.0.6",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/styles": "^4.11.5",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.11",
+    "@mui/x-date-pickers": "^5.0.6",
+    "cypress": "^11.0.1",
+    "dayjs": "^1.11.6",
+    "lodash": "^4.17.21",
+    "material-ui-address-input": "^0.4.0",
+    "material-ui-numeric-input": "^3.1.1",
+    "material-ui-search-bar": "^1.0.0",
+    "react-async": "^10.0.1",
+    "react-google-autocomplete": "^2.7.0",
+    "react-google-places-autocomplete": "^3.4.0",
+    "react-material-ui-carousel": "^3.4.2",
+    "react-numeric-input": "^2.2.3",
+    "react-router-dom": "^6.4.2",
+    "react-virtualized": "^9.22.3"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}

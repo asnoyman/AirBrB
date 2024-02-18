@@ -1,0 +1,38 @@
+{
+  "title": "Upload Example",
+  "address": "48 Denning St, South Coogee, 2034",
+  "thumbnail": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg",
+  "price": 200,
+  "metadata": {
+    "type": "House",
+    "bathrooms": 2,
+    "bedrooms": [
+      {
+        "Super King": 0,
+        "King": 1,
+        "Queen": 2,
+        "Double": 0,
+        "King Single": 0,
+        "Single": 0
+      },
+      {
+        "Super King": 0,
+        "King": 0,
+        "Queen": 0,
+        "Double": 0,
+        "King Single": 0,
+        "Single": 3
+      }
+    ],
+    "amenities": {
+      "pool": false,
+      "wifi": false,
+      "kitchen": true,
+      "parking": true,
+      "jacuzzi": true,
+      "washing": false,
+      "airCon": false,
+      "pets": false
+    }
+  }
+}
